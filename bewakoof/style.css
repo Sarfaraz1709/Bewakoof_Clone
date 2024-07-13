@@ -1,0 +1,110 @@
+
+header
+{
+    color: black;
+    display: flex;
+    background-color:#eee;
+    font-family:montserrat, sans-serif;
+    font-size:13px;
+}
+header a
+{
+    text-decoration: none; 
+    color: inherit;
+    margin-right: 20px;
+}
+#head2
+{
+ padding-left:850px;
+}
+
+#searchbar
+{
+  padding-left: 100px;  
+  font-family:montserrat, sans-serif;
+  display: flex;
+}
+#searchbar a
+{
+  padding-left:20px;
+  padding-top: 15px;
+  margin-right: 20px; 
+  text-decoration: none; 
+  color: inherit;
+}
+.Sb
+{
+    padding-left:300px;
+    padding-top: 10px; 
+}
+#Catg
+{
+    width:100%;
+    font-family:montserrat, sans-serif;
+    font-size:16px;
+}
+#Catg a
+{
+    text-decoration: none; 
+    color: inherit;
+    margin-right: 10px;
+    padding-left:30px;    
+}
+.main p
+{
+text-align: center;
+font-weight: bold;
+font-family:montserrat, sans-serif;
+font-size: 20px;
+}
+.orginal pre
+{
+    text-align: center;
+    font-family:montserrat, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.org img
+{
+    width:33%;
+    height:470px;
+}
+.bestsellers img
+{
+ width:140px;
+
+}
+.bestsellers a
+{
+    text-decoration: none;
+    color: black;
+    padding-right:28px;
+    padding-left:20px;
+}
+.HOT img
+{
+    width:33%;
+    height:470px;
+}
+.bestpic img
+{
+    width:33%;
+    height:470px;
+}
+.order img
+{
+    width: 100%;
+}
+footer
+{
+    width:100%;
+    background-color:rgba(0,0,0,0.9);
+}
+footer p
+{
+    color:yellow;
+    font-size:30px;
+    font-family:montserrat, sans-serif;
+    font-weight:bold;
+    padding-left:200px;
+}
